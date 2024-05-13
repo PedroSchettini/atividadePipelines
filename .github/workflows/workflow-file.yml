@@ -7,5 +7,5 @@ jobs:
  - uses: actions/checkout@v2
  - name: Executando o STEP1
  run: |
- echo Esse processo carrega uma mensagem
- echo basica para entender o workflow
+ - echo Esse processo carrega uma mensagem
+ - echo basica para entender o workflow
